@@ -1,2 +1,3 @@
-# literature-review-hci-social-media-blockchain
-A list of papers along with short descriptions on CS topics related to HCI and Blockchain-Based Social Media
+# A Literature Review on HCI and Blockchain-Based Social Media
+
+This repository includes lists of papers, short descriptions, and a link for each on a set of CS topics related to HCI and Blockchain-Based Social Media. The lists are by no means exhaustive. All the data are collected by a human (me) without using crawlers or automated software. The lists can help you - as a researcher - get ideas for the possible citations and related work for your paper and find the previous job on your desired topic. In addition to the terms and conditions in the license file, you must cite this repository if you cite any paper in the lists in this repository after looking at the list. Also, you're not allowed to write any survey or literature review based on the collected papers in this repository; the only papers permitted to use and cite in this repository are research papers, which can use the provided lists while writing the "Related Work" section.
