@@ -22,5 +22,3 @@ You can cite this repository using the following BibTeX entry:
 ## Table of Contents
 
 - [Peer Grading / Peer Assessment](https://github.com/Imanm02/literature-review-hci-social-media-blockchain/blob/main/topics/peer-grading.md)
-- [Assessment in MOOCs](https://github.com/Imanm02/literature-review-hci-social-media-blockchain/blob/main/topics/mooc-assessment.md)
-- [Automated Grading](https://github.com/Imanm02/literature-review-hci-social-media-blockchain/blob/main/topics/automated-grading.md)
